@@ -13,16 +13,15 @@ I find joy in writing simple code, mentoring and, more recently, in playing the 
 
 ### Some things I've done
 
-- Designed and implemented a subscription billing system that could be tweaked to our needs, using vanilla Ruby on Rails, featuring payment gateway integrations, internal accounting, in-app notifications and debtor management
-- Rearchitectured flows handling +10M daily background jobs to increase system observability and allow easy recovery after outages
-- Refactored core models of different platforms, safely removing code that was preventing us from building faster
-- Shaped dozens of projects with different budgets, restrictions, in very different domains
-- Lead the launch and production of five 3D printer models in less than 5 years, period in which the yearly inflation rate was about 30% and the argentinean peso was one of the weakest currencies in the world
-- Built teams of designers and engineers, from headcount planning and interviewing to onboarding and mentoring
+- Designed and implemented a usage-based subscription billing system featuring payment gateway integrations (Stripe & MercadoPago), internal accounting and debtor management
+- Rearchitectured referral flows with +100M daily background jobs to reduce that number by 70%, increase system observability and allow easy recovery after outages
+- Refactored all core models of a referral platform to adapt legacy code to a new architecture, involving some tables with +300M rows
+- Shaped, reviewed and managed projects with different budgets, restrictions, in very different domains
+- Led the launch and production of five 3D printer models in less than 5 years, period in which the yearly inflation rate was about 30% and the argentinean peso was one of the weakest currencies in the world
 
 ### Stack
 
-Ruby (with Rspec) - Ruby On Rails (with Hotwire) - Sidekiq - Vanilla JS - Postgresql - ClickHouse - Linux (Arch mainly, also Ubuntu) - MacOS - Docker
+Ruby (with Rspec) - Ruby On Rails (with Hotwire) - Sidekiq - Vanilla JS - Postgresql - ClickHouse - Linux (Arch mainly) - MacOS - Docker
 
 ### Professional Experience
 
@@ -46,12 +45,7 @@ Started as responsible for the production and delivery of the first batch of 3D 
 
 ### Other skills
 
-- I've mentored projects for about 7 years at a free entrepreneurship course at Buenos Aires University, trying to help entrepreneurs understand their business and survive.
-- I speak english :gb:, spanish :es: and a bit of italian (learning) :it:.
-- I'm teaching myself some system design with C. I've played with Python.
+- Graduated from Industrial Engineering (generalist engineer with focus on processes and finance)
+- Mentored projects for about 7 years at a free entrepreneurship course at Buenos Aires University, trying to help entrepreneurs understand their businesses and survive
 
-### Formal education
-
-**Mar 2007- Nov 2013** - Industrial Engineering. *Universidad de Buenos Aires*.
-
-<!-- ### Last updated: November 2024 -->
+<!-- ### Last updated: November 2025 -->
